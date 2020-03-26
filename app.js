@@ -14,6 +14,7 @@ mongoose.connect('mongodb://localhost:27017/messages', {
 });
 
 
+const mongo = require('mongo');
 mongo.connect("mongodb://localhost:27017/messages");
 
 
