@@ -14,6 +14,10 @@ mongoose.connect('mongodb://localhost:27017/messages', {
 });
 
 
+mongo.connect("mongodb://localhost:27017/messages");
+
+
+
 
 var app = express();
 
