@@ -15,7 +15,7 @@
     "moose": "0.0.3",
     "morgan": "~1.9.1"
   },
-  "devDependencies": {
+  "Dependencies": {
     "nodemon": "^2.0.2"
   }
 }
